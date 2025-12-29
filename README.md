@@ -27,11 +27,6 @@ Currently, two official plugins are available:
 | **Persistence**| **`localStorage`** | Browser API used to store and retrieve expense data locally. |
 The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
 
-## 🚀 Getting Started
-Note: This will impact Vite dev & build performances.
-
-Follow these steps to set up the project locally.
-## Expanding the ESLint configuration
 
 ### Prerequisites
 
